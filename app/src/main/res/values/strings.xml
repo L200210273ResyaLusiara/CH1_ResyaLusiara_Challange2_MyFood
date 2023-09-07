@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyFood</string>
+    <string name="text_mau_makan_apa_hari_ini">Mau makan apa hari ini?</string>
+    <string name="text_hai_binarian">Hai Binarian,</string>
+    <string name="text_diskon_30">Diskon 30%</string>
+    <string name="text_pesan_makanan_lewat_aplikasi_dan_dapatkan_diskonmu">Pesan makanan lewat aplikasi dan dapatkan diskonmu.</string>
+    <string name="text_pizza">Pizza</string>
+    <string name="text_hambuger">Hambuger</string>
+    <string name="text_hotdog">Hotdog</string>
+    <string name="text_minuman">Minuman</string>
+    <string name="donat">Donat</string>
+    <string name="text_list_menu_makanan">List Menu makanan</string>
+    <string name="pizza2">Pizza</string>
+    <string name="text_hambuger2">Hambuger</string>
+    <string name="text_rp_99_000">Rp 99.000</string>
+    <string name="text_rp_55_000">Rp 55.000</string>
+    <string name="text_rp_15_000">Rp 15.000</string>
+    <string name="text_hotdog2">Hotdog</string>
+    <string name="text_rp_59_000">Rp 59.000</string>
+    <string name="text_french_fries2">French Fries.</string>
+    <string name="text_rp_20_000">Rp 20.000</string>
+</resources>
